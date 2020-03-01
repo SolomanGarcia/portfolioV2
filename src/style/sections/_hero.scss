@@ -17,9 +17,11 @@
   
     // If you want to set a background image on the hero section, uncomment these with yout custom image
   
-    /* background: url("/src/assets/[your-image].png");
-    background-position: center;
-    background-size: cover; */
+    // background-image: url("/src/assets/hero.jpg");
+    // background-position: center;
+    // background-size: cover;
+    // box-shadow: inset 0 0 0 1000px rgba(0,0,0,.8);
+    
   
     @include respond(phone) {
       padding: 0rem $default-font-size;
